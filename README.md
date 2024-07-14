@@ -4,6 +4,9 @@
 
 ## Getting Started
 
+pnpm install
+
+
 First, run the development server:
 
 ```bash
